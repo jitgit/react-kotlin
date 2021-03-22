@@ -7,7 +7,9 @@
 - java version - 11.0.10 (This must be JDK not JRE)
   JAVA_HOME is set to above java version All bin/executable directories of above to the class path
 
-Port 3000 and 5000 are used for the client and server, so they must be available. NOTE - GIT bash command line was used
+Port 3000 and 5000 are used for the client and server, so they must be available.
+
+*NOTE* - GIT bash command line was used
 to run following commands (inside the cloned directory)
 
 ### Setup
@@ -37,7 +39,7 @@ PS: This is react-typescript app which is templated using
 
 ```
 gradle npm_install
-This might take a while does npm install and then start the react app
+(This might take a while)
 ```
 
 ### Run
