@@ -32,8 +32,7 @@ gradle run
 
 ## Client
 
-PS: This is react-typescript app which is templated using
-(i.e. npx create-react-app my-app --template redux-typescript)
+**Open another git bash terminal**
 
 ### Install
 
@@ -49,6 +48,8 @@ gradle run_client
 It will open a page in http://localhost:3000/
 
 ```
+PS: This is react-typescript app which is templated using
+(i.e. npx create-react-app my-app --template redux-typescript)
 
 ### Run Test
 
